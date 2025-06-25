@@ -1,2 +1,2 @@
 # minhas-certificacoes
-esses são minhas certificações
+esses são minhas certificações.
